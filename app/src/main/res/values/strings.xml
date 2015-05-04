@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_0_string">0</string>
+    <string name="button_1_string">1</string>
+    <string name="button_2_string">2</string>
+    <string name="button_3_string">3</string>
+    <string name="button_4_string">4</string>
+    <string name="button_5_string">5</string>
+    <string name="button_6_string">6</string>
+    <string name="button_7_string">7</string>
+    <string name="button_8_string">8</string>
+    <string name="button_9_string">9</string>
+    <string name="button_equals_string">=</string>
+    <string name="button_plus_string">+</string>
+    <string name="button_minus_string">-</string>
+    <string name="button_multiply_string">X</string>
+    <string name="button_division_string">/</string>
+    <string name="button_decimal_string">.</string>
+</resources>
